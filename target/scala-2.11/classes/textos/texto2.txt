@@ -1,0 +1,2 @@
+As you can see, there are a number of ways to tackle this problem. Of all the examples shown, the zipWithIndex method probably requires some explanation. The Iterator Scaladoc denotes that it creates an iterator that pairs each element produced by this iterator with its index, counting from 0.
+

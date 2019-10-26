@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[0minfo[0m] [0m[0mSHA-1: 7b12aef7439d2a006d1ee3388f99834fdf11e881[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/scala-2.11/hector-flink-assembly-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/Job$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/Job$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/Job.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/Job.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/SocketTextStreamWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/SocketTextStreamWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/WordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/WordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/WordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/WordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/WordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/WordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mx/cic/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aulae1/Documentos/HGNM/Modulo4/hector-flink/target/streams/$global/assemblyOption/$global/streams/assembly/0373f15482f09028c2c8827160f9ff8b119889e1_dir/mx/cic/WordCount.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
