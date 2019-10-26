@@ -1,8 +1,8 @@
 package mx.cic
 // Librerías con programas para implementar transformaciones en data streams
-import java.io.File
-// Librería para manipular archivos
 import org.apache.flink.api.scala._
+// Librería para manipular archivos
+import java.io.File
 // Librería para convertir una cadena de caracteres en una ruta
 import java.nio.file.Paths
 // Librería para exportar representaciones formateadas de objetos a archivos de texto
