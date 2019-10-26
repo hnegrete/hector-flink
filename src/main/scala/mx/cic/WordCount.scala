@@ -79,9 +79,11 @@ object WordCount {
       val text = env.readTextFile(myList(i).toString)
       val counts = text.flatMap { _.toLowerCase.split("\\W+") }.map { (_, 1) }.groupBy(0).sum(1)
       val x = counts.collect()
-      resultados = resultados + myList(i).toString + "\n"
+      val f = new File(myList(i).toString)
+      resultados = resultados + f.getName().toString + "\n"
       resultados = resultados + x.toString().slice(7,x.toString().size-1)
       resultados = resultados.replace("), (",")\n(") + "\n"
+      resultados = resultados.replace("(","").replace(")","")
     }
     new PrintWriter(toAbsolutePath(args(1))) { write(resultados); close }
   }
